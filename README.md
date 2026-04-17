@@ -1,16 +1,45 @@
-## Hi there 👋
+# Abdullah Khan
 
-<!--
-**Abdullahkhan-tec/Abdullahkhan-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Bachelor of Computer Science (BSCS) student with a strong interest in Cyber Security, Artificial Intelligence, and Frontend Development. I focus on building secure, efficient, and user-friendly applications while continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+**Programming Languages**
+C++, C#, JavaScript
+
+**Frontend Development**
+HTML, CSS
+
+**Cyber Security**
+Basic Security Concepts, Networking, Secure Coding
+
+**Artificial Intelligence**
+Machine Learning Fundamentals
+
+**Databases**
+MongoDB, SQL
+
+---
+
+## Projects
+
+* Game Store – Console-based application developed in C# using object-oriented programming principles
+* Carbon Footprint Tracker – Web-based application using Flask and MongoDB
+
+---
+
+## Goals
+
+* Strengthen expertise in Cyber Security and AI
+* Build scalable and real-world software solutions
+* Continuously learn and adapt to modern technologies
+
+---
+
+## Contact
+
+GitHub: https://github.com/Abdullahkhan-tec
