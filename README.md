@@ -1,59 +1,64 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=0D1117&height=200&section=header&text=Abdullah%20Khan&fontSize=70&fontColor=3B82F6&animation=twinkling" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=42&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=ABDULLAH+KHAN;SOFTWARE+ENGINEERING;CYBER+SECURITY;ARTIFICIAL+INTELLIGENCE" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bachelor+of+Computer+Science;Cyber+Security+Specialist;AI+Explorer;Frontend+Architect" alt="Typing SVG" />
+  <strong>Bachelor of Computer Science</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan-tec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
----
-
-### About Me
-
-I am a **BSCS student** dedicated to the intersection of **Cyber Security**, **Artificial Intelligence**, and **Frontend Design**. My focus lies in architecting secure digital environments and building high-performance, user-centric applications.
-
----
-
-### Technical Arsenal
-
-| Category | Tech Stack |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) |
-| **Security & AI** | ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-Shield-D32F2F?style=flat-square) ![AI](https://img.shields.io/badge/-AI%2FML-0277BD?style=flat-square) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=database) |
-
----
-
-### Featured Projects
-
-**Game Store** An advanced console application built with C# implementing deep OOP principles and efficient data persistence.
-
-**Carbon Footprint Tracker** A full-stack sustainability tool leveraging the Flask framework and MongoDB for real-time data tracking.
-
----
-
-### Strategic Goals
-
-* Mastering Advanced Penetration Testing & Network Defense
-* Engineering Scalable AI-driven Software Solutions
-* Contributing to Open Source Security Frameworks
-
----
-
-### Connect
-
-<p align="left">
   <a href="https://github.com/Abdullahkhan-tec">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahkhan-tec&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+---
+
+### Executive Summary
+
+I am a Computer Science professional dedicated to developing secure, scalable, and intelligent software systems. My expertise spans across **Cyber Security**, **Artificial Intelligence**, and **Frontend Architecture**, with a focus on creating user-centric applications that prioritize data integrity and performance.
+
+---
+
+### Core Competencies
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Development** | `C++` &bull; `C# / .NET` &bull; `JavaScript` &bull; `Flask` |
+| **Frontend** | `HTML5` &bull; `CSS3` &bull; `Responsive Design` |
+| **Security & AI** | `Network Security` &bull; `Secure Coding` &bull; `Machine Learning` |
+| **Data Systems** | `MongoDB` &bull; `SQL` &bull; `JSON Persistence` |
+
+---
+
+### Technical Projects
+
+**System Architecture: Game Store** Developed a robust console-based application utilizing C# and .NET. Implemented Object-Oriented Programming (OOP) patterns and utilized JSON for advanced data serialization and state persistence.
+
+**Full-Stack Development: Carbon Footprint Tracker** Engineered a web-based sustainability analysis tool. Leveraged Flask for backend logic and MongoDB for flexible, high-scale data management.
+
+---
+
+### Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan-tec&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=BDC1C6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan-tec&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=BDC1C6" width="38%" />
+</p>
+
+---
+
+### Professional Objectives
+
+* **Advanced Security Research:** Strengthening expertise in penetration testing and defensive cybersecurity frameworks.
+* **AI Integration:** Implementing machine learning models into real-world software solutions to enhance automation.
+* **Scalable Engineering:** Utilizing Docker and modern CI/CD pipelines to containerize and deploy enterprise-level applications.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahkhan-tec&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</p>
