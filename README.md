@@ -1,64 +1,65 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=42&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=ABDULLAH+KHAN;SOFTWARE+ENGINEERING;CYBER+SECURITY;ARTIFICIAL+INTELLIGENCE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=ABDULLAH+KHAN;Software+Engineering+Student;Cyber+Security+%26+Machine+Learning" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <strong>Bachelor of Computer Science</strong>
-</p>
+---
+
+### Professional Profile
+
+I am a Bachelor of Computer Science student specializing in the development of secure, scalable software solutions. My technical focus involves bridging the gap between **Frontend Engineering**, **Cyber Security protocols**, and **Artificial Intelligence**. I am committed to writing clean, maintainable code and implementing robust security measures within the software development lifecycle.
+
+---
+
+### Technical Competencies
+
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **Core Languages** | C++ • C# • .NET • JavaScript (ES6+) |
+| **Web Technologies** | HTML5 • CSS3 • Flask • Frontend Architecture |
+| **Specialized Domains** | Cyber Security • Machine Learning • Networking Fundamentals |
+| **Data Management** | MongoDB • SQL • JSON Data Serialization |
+| **Tools & DevOps** | Git/GitHub • Docker • Containerization Strategies |
+
+---
+
+### Selected Technical Projects
+
+**Game Store Architecture** *Developed a C#/.NET application focused on Object-Oriented Design and data persistence.* * Engineered a custom repository pattern for data management.  
+* Utilized JSON serialization for efficient state handling and storage.
+
+**Carbon Footprint Analytics** *A full-stack web application designed for environmental data tracking.* * Integrated Flask for backend routing and logic.  
+* Implemented MongoDB for high-performance, non-relational data storage.
+
+---
+
+### Analytical Overview
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan-tec&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan-tec&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8B949E" width="38%" />
+</p>
+
+---
+
+### Strategic Objectives
+
+* **Advanced Defensive Security:** Strengthening expertise in threat modeling and secure software development.
+* **AI Implementation:** Exploring the integration of ML models into real-world, user-centric applications.
+* **Systems Scalability:** Deepening knowledge in cloud deployment and microservices architecture.
+
+---
+
+### Professional Correspondence
+
+<p align="left">
   <a href="https://github.com/Abdullahkhan-tec">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-### Executive Summary
-
-I am a Computer Science professional dedicated to developing secure, scalable, and intelligent software systems. My expertise spans across **Cyber Security**, **Artificial Intelligence**, and **Frontend Architecture**, with a focus on creating user-centric applications that prioritize data integrity and performance.
-
----
-
-### Core Competencies
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Development** | `C++` &bull; `C# / .NET` &bull; `JavaScript` &bull; `Flask` |
-| **Frontend** | `HTML5` &bull; `CSS3` &bull; `Responsive Design` |
-| **Security & AI** | `Network Security` &bull; `Secure Coding` &bull; `Machine Learning` |
-| **Data Systems** | `MongoDB` &bull; `SQL` &bull; `JSON Persistence` |
-
----
-
-### Technical Projects
-
-**System Architecture: Game Store** Developed a robust console-based application utilizing C# and .NET. Implemented Object-Oriented Programming (OOP) patterns and utilized JSON for advanced data serialization and state persistence.
-
-**Full-Stack Development: Carbon Footprint Tracker** Engineered a web-based sustainability analysis tool. Leveraged Flask for backend logic and MongoDB for flexible, high-scale data management.
-
----
-
-### Metrics & Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahkhan-tec&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=BDC1C6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan-tec&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=BDC1C6" width="38%" />
-</p>
-
----
-
-### Professional Objectives
-
-* **Advanced Security Research:** Strengthening expertise in penetration testing and defensive cybersecurity frameworks.
-* **AI Integration:** Implementing machine learning models into real-world software solutions to enhance automation.
-* **Scalable Engineering:** Utilizing Docker and modern CI/CD pipelines to containerize and deploy enterprise-level applications.
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahkhan-tec&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahkhan-tec&theme=transparent&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </p>
