@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=rect&color=0d1117&height=260&section=header&text=ABDULLAH%20KHAN&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Cyber%20Security%20%26%20Machine%20Learning&descSize=22&descAlign=50&descAlignY=55&stroke=3b82f6&strokeWidth=2&animation=twinkling&bg_color=161b22&bg_type=dots" alt="Abdullah Khan Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=ABDULLAH+KHAN" alt="Name Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=BDC1C6&center=true&vCenter=true&width=600&lines=Building+Secure+Applications;Architecting+Intelligent+Systems;Exploring+Network+Defense;Developing+User-Centric+Frontend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=BDC1C6&center=true&vCenter=true&width=600&lines=Building+Secure+Applications;Architecting+Intelligent+Systems;Exploring+Network+Defense;Developing+User-Centric+Frontend" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ This section outlines my professional focus areas and long-term goals.
 
 ---
 
-##  Professional Correspondence
+## Professional Correspondence
 
 For inquiries regarding potential collaborations, technical discussions, or professional opportunities, please connect with me via the following channels.
 
